@@ -1,0 +1,17 @@
+.list {
+
+    display: flex;
+    flex-wrap: wrap;
+    height: 100%;
+    align-content: space-between;
+}
+
+.btn{
+    width: 100%;
+}
+
+.ntb {
+    box-sizing: border-box;
+    width: 100px;
+    margin: 5px;
+}
